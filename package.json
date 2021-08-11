@@ -7,6 +7,10 @@
     "dev": "webpack serve",
     "build": "cross-env NODE_ENV=production webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorpetri/github-explorer"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.14.5",
     "@types/react": "^17.0.14",
